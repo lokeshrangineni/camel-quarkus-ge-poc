@@ -21,3 +21,8 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+/.idea/
+/camel-quarkus-rest-core-example/.idea/
+/camel-quarkus-rest-extension-example/.idea/
+/camel-quarkus-rest-core-example/target/
+/camel-quarkus-rest-extension-example/target/
